@@ -23,3 +23,10 @@ h2{
 li{
     color: grey;
 }
+
+/*This if for the button of the website*/
+button{
+    color: gray;
+    background-color: white;
+    border-radius: 5px;
+}

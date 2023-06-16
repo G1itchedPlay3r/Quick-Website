@@ -1,1 +1,3 @@
-//This is a js comment
+function DoSomething(){
+    document.getElementById("Text1").innerHTML = "Goodbye";
+}
