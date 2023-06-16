@@ -1,0 +1,25 @@
+/*This is for the body of the website*/
+body
+{
+    background-color: lightgray;
+}
+
+/*This is for the header of the website*/
+h1{
+    color: red;
+    background-color: grey;
+}
+
+/*This is for the text of the website*/
+p{
+    color: gray;
+}
+
+h2{
+    color: blue;
+}
+
+/*This is for the list of the website*/
+li{
+    color: grey;
+}
