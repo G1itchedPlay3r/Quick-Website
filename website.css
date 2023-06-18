@@ -15,10 +15,6 @@ p{
     color: gray;
 }
 
-h2{
-    color: blue;
-}
-
 /*This is for the list of the website*/
 li{
     color: grey;
@@ -30,3 +26,4 @@ button{
     background-color: white;
     border-radius: 5px;
 }
+    
